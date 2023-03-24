@@ -33,7 +33,7 @@ type Post struct {
 	Price string `xml:"PRICE"`
 	Phone string `xml:"PHONE"`
 	BodyType string `xml:"BODY_TYPE"`
-	LargeImages []Image `xml:"IMAGES_LARGE"`
+	LargeImages []Image `xml:"IMAGES_LARGE>IMAGE_URL_LARGE"`
 	FIPE string `xml:"FIPE"`
 	Now string `xml:"DATE"`
 	LastUpdated string `xml:"LAST_UPDATE"`
