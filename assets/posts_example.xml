@@ -1,0 +1,58 @@
+<ADS>
+  <AD>
+    <ID>4838596</ID>
+    <DATE>24/03/2023</DATE>
+    <TITLE>bmw 320i 3b11 4p 2020</TITLE>
+    <CATEGORY>carro</CATEGORY>
+    <DESCRIPTION/>
+    <ACCESSORIES/>
+    <MAKE>bmw</MAKE>
+    <MODEL>320i 3b11 4p</MODEL>
+    <YEAR>2020</YEAR>
+    <FABRIC_YEAR>2020</FABRIC_YEAR>
+    <CONDITION>USADO</CONDITION>
+    <MILEAGE>0</MILEAGE>
+    <FUEL>gasolina</FUEL>
+    <GEAR>automatica</GEAR>
+    <MOTOR>2.0</MOTOR>
+    <PLATE>bed5b58</PLATE>
+    <DOORS>4</DOORS>
+    <COLOR>branco</COLOR>
+    <PRICE>233000.00</PRICE>
+    <SELLER>default seller</SELLER>
+    <PHONE>45 999142929</PHONE>
+    <LOCATION_COUNTRY>BR</LOCATION_COUNTRY>
+    <LOCATION_STATE>parana</LOCATION_STATE>
+    <LOCATION_CITY>cascavel</LOCATION_CITY>
+    <ZIP_CODE>85803-722</ZIP_CODE>
+    <NEIGHBORHOOD>parque sao paulo</NEIGHBORHOOD>
+    <IMAGES>
+      <IMAGE_URL>https://example.com/4838596_0_G_1e8084911d.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_5_G_4e6960a211.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_6_G_0f7e7d151e.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_2_G_d6a497b74d.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_1_G_a107b55adb.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_3_G_45cd716cf0.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_4_G_be20a6dbd3.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_7_G_999cf6b3e4.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_8_G_9dd1071d20.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_9_G_419ed0290c.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_10_G_19954a8ecc.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_11_G_3f9cb6aa61.jpeg</IMAGE_URL>
+      <IMAGE_URL>https://example.com/4838596_12_G_ba3fe836e6.jpeg</IMAGE_URL>
+    </IMAGES>
+    <VIDEO/>
+    <FIPE>009213-4</FIPE>
+    <PERICIA/>
+    <DESTAQUE/>
+    <LAST_UPDATE>2023-03-16 10:12:07+00</LAST_UPDATE>
+    <PROMOTION_PRICE>0.00</PROMOTION_PRICE>
+    <BODY_TYPE/>
+    <HP>100</HP>
+    <BASE_MODEL>320I</BASE_MODEL>
+    <IMAGES_LARGE>
+      <IMAGE_URL_LARGE>https://example.com/4838596_9_G_419ed0290c.jpeg</IMAGE_URL_LARGE>
+      <IMAGE_URL_LARGE>https://example.com/4838596_12_G_ba3fe836e6.jpeg</IMAGE_URL_LARGE>
+    </IMAGES_LARGE>
+  </AD>
+</ADS>
