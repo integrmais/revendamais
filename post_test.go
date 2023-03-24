@@ -1,7 +1,6 @@
 package revendamais_test
 
 import (
-	"fmt"
 	"os"
 	"testing"
 	"net/http"
@@ -40,6 +39,8 @@ func TestListPosts(t *testing.T) {
 	}
 
 	for _, post := range posts.Posts {
-		fmt.Println(post.Title)
+		if len(post.LargeImages) != 2 {
+			t.Errorf("Expected 1 image, got %d", len(post.LargeImages))
+		}
 	}
 }
